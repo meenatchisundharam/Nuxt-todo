@@ -73,3 +73,7 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+addTask function. In Vue 3 with <script setup>, you don't need to use
+# this
+to access reactive references
