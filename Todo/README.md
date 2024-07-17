@@ -77,3 +77,6 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 addTask function. In Vue 3 with <script setup>, you don't need to use
 # this
 to access reactive references
+# todo
+[Todo.pdf](https://github.com/user-attachments/files/16263466/Todo.pdf)
+
